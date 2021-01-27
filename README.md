@@ -18,7 +18,7 @@ TODO:
     3. https://github.com/OnYuKang/Recommendation-systems-paperlist
 3. List of datasets: https://github.com/caserec/Datasets-for-Recommender-Systems
 
-# Libraries
+# Solutions
 Most popular libraries based on matrix factorization are:
 1. https://github.com/benfred/implicit
 2. https://github.com/lyst/lightfm
