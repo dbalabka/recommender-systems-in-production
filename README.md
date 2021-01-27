@@ -57,6 +57,10 @@ Others large companies also has been envolved:
 2. Nvidia - https://github.com/NVIDIA/DeepRecommender
 3. IBM - https://github.com/IBM/elasticsearch-spark-recommender
 
+Create yout own RecSys solution is complicated task. In some cases it is easer and cheaper to use SaaS solutions:
+1. https://cloud.google.com/retail/recommendations-ai/docs
+2. https://retailrocket.net/
+
 
 # Need to review
 1. https://github.com/NicolasHug/Surprise 
