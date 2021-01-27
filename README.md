@@ -13,9 +13,9 @@ TODO:
 # Some existing lists of Recommenders
 1. List of ready recommenders: https://github.com/grahamjenson/list_of_recommender_systems
 2. List of papers: 
-  1. https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
-  2. https://github.com/daicoolb/RecommenderSystem-Paper
-  3. https://github.com/OnYuKang/Recommendation-systems-paperlist
+    1. https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+    2. https://github.com/daicoolb/RecommenderSystem-Paper
+    3. https://github.com/OnYuKang/Recommendation-systems-paperlist
 3. List of datasets: https://github.com/caserec/Datasets-for-Recommender-Systems
 
 # Libraries
@@ -59,16 +59,16 @@ Others large companies also has been envolved:
 
 
 # Need to review
-https://github.com/NicolasHug/Surprise 
-https://github.com/DeepGraphLearning/RecommenderSystems
-https://github.com/shenweichen/DeepCTR
-https://github.com/shenweichen/DeepMatch
-https://github.com/evfro/polara
-https://github.com/mquad/hgru4rec
-https://github.com/rexyai/rsparse
-https://github.com/khanhnamle1994/MetaRec
-https://github.com/etlundquist/rankfm
-https://github.com/jangmino/HGRU4Rec
-https://github.com/evfro/HyperbolicRecommenders
-https://github.com/that-recsys-lab/librec-auto
-https://github.com/dmitryhd/lightfm
+1. https://github.com/NicolasHug/Surprise 
+1. https://github.com/DeepGraphLearning/RecommenderSystems
+1. https://github.com/shenweichen/DeepCTR
+1. https://github.com/shenweichen/DeepMatch
+1. https://github.com/evfro/polara
+1. https://github.com/mquad/hgru4rec
+1. https://github.com/rexyai/rsparse
+1. https://github.com/khanhnamle1994/MetaRec
+1. https://github.com/etlundquist/rankfm
+1. https://github.com/jangmino/HGRU4Rec
+1. https://github.com/evfro/HyperbolicRecommenders
+1. https://github.com/that-recsys-lab/librec-auto
+1. https://github.com/dmitryhd/lightfm
