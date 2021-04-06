@@ -76,3 +76,4 @@ Create yout own RecSys solution is complicated task. In some cases it is easer a
 1. https://github.com/evfro/HyperbolicRecommenders
 1. https://github.com/that-recsys-lab/librec-auto
 1. https://github.com/dmitryhd/lightfm
+2. https://github.com/NVIDIA/NVTabular
