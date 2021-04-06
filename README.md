@@ -62,6 +62,16 @@ Create yout own RecSys solution is complicated task. In some cases it is easer a
 2. https://retailrocket.net/
 1. https://www.recombee.com/
 
+# Criterias to choose RecSys model implementation
+
+1. Cold user/item support
+2. Fold-in support
+3. User/Item features support
+4. Numerical and categorical features support
+5. Historical, seasonal patterns support
+6. CPU/GPU support
+7. User/item embeggins generation for similarity search
+
 # Need to review
 1. https://github.com/NicolasHug/Surprise 
 1. https://github.com/DeepGraphLearning/RecommenderSystems
