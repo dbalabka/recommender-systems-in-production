@@ -88,3 +88,4 @@ Create yout own RecSys solution is complicated task. In some cases it is easer a
 1. https://github.com/dmitryhd/lightfm
 2. https://github.com/NVIDIA/NVTabular
 3. https://github.com/NVIDIA/HugeCTR
+4. https://github.com/beta-team/beta-recsys
